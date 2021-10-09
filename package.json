@@ -1,0 +1,11 @@
+{
+  "name": "three-col-prev-fem",
+  "version": "1.0.0",
+  "description": "Three column preview card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hjalmar-K-sson",
+  "license": "ISC"
+}
