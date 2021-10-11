@@ -23,6 +23,12 @@ body {
   color: #e38826;
 }
 
+.sed-col .btn:hover {
+  background-color: #e38826;
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.75);
+}
+
 .suv-col {
   background-color: #006970;
 }
@@ -31,12 +37,24 @@ body {
   color: #006970;
 }
 
+.suv-col .btn:hover {
+  background-color: #006970;
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.75);
+}
+
 .lux-col {
   background-color: #004241;
 }
 
 .lux-col .btn {
   color: #004241;
+}
+
+.lux-col .btn:hover {
+  background-color: #004241;
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.75);
 }
 
 .btn {
